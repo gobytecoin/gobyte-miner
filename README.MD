@@ -4,6 +4,7 @@
 
 # GoByte Miner
 Quick Download: (https://github.com/gobytecoin/gobyte-miner/releases/download/1.0/GoByte_Miner_Installer.exe)
+
 User Manual: (https://github.com/gobytecoin/gobyte-miner/blob/master/GoByte%20Miner%20User%20Manual%20-%201.0.pdf)
 
 ## Features Currently Avaiable
