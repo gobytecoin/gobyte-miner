@@ -36,12 +36,12 @@ https://support.amd.com/en-us/kb-articles/Pages/DH-024.aspx
 
 
 ## Built With
-All rights are reserved, in the even that any developer below would like to have the product removed from GoByte miner, please create an issue here and we can remove it.  Thank you for all of your hard work!
+All rights are reserved, in the event that any developer below would like to have the product removed from GoByte miner, please create an issue here and we can remove it.  Thank you for all of your hard work!
 
 * [CCMiner KlausT 8.2](https://github.com/KlausT/ccminer/releases)
 * [HSRMiner](https://github.com/palginpav/hsrminer/tree/master/Neoscrypt%20algo/Windows)
 * [nsgminer](https://github.com/ghostlander/nsgminer/releases)
-* [Visual Studio 2017]
+* [Visual Studio 2017](https://www.visualstudio.com/downloads/)
 
 ## Designed By
 
