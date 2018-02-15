@@ -7,13 +7,13 @@ Quick Download: (https://github.com/gobytecoin/gobyte-miner/releases/download/1.
 
 User Manual: (https://github.com/gobytecoin/gobyte-miner/blob/master/GoByte%20Miner%20User%20Manual%20-%201.0.pdf)
 
-## Features Currently Avaiable
+## Features Currently Available
  - GoByte Pool Management
  - Auto start mining on start of application
  - Idle Mining
  - List Price for GBX/BTC
  - Display of current KH/s on the front of the application
- - Display of current GPU Power useage on the front of the application 
+ - Display of current GPU Power usage on the front of the application 
  - Enable Auto-Login for your windows machine
  - Enable GoByte Miner  to start as soon as you boot 
  - Backup/Import settings
